@@ -1,0 +1,40 @@
+# usuário padrão 
+create_profile ( access_key  =  " my_access_key_1 " ,
+                 secret_key  =  " 123456789 " ,
+                 region  =  " us-east-1 " )
+
+# profile_name1 
+create_profile ( profile  =  " profile_name1 " ,
+                 access_key  =  " minha_acessao_chave_chave2 " ,
+                 secret_key  =  " 987654321 " ,
+                 region  =  " us-west-1 " )
+
+# profile_name2 
+create_profile ( profile  =  " profile_name2 " ,
+                 access_key  =  " meu_acesso_key_3 " ,
+                 secret_key  =  " 12344321 " ,
+                 region  =  " us-west-1 " )
+
+# profile_name3 
+create_profile ( profile  =  " profile_name3 " ,
+                 access_key  =  " meu_acesso_key_3 " ,
+                 secret_key  =  " 98766789 " ,
+                 region  =  " us-east-1 " )
+
+# profile_name4 
+create_profile ( profile  =  " profile_name4 " ,
+                 access_key  =  " meu_acesso_chave_chave4 " ,
+                 secret_key  =  " 192837465 " ,
+                 região  =  " us-west-1 " )
+
+# profile_name5 
+create_profile ( profile  =  " profile_name5 " ,
+                 access_key  =  " meu_acesso_key_5 " ,
+                 secret_key  =  " 546372819 " ,
+                 region  =  " us-east-1 " )
+
+# mostra os perfis criados 
+list_profiles ()
+aws_version()
+?system()
+aws_version()
